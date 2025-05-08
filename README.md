@@ -26,3 +26,9 @@ d. Change access.<br />
 
 ## Getting Started Demos
 [RC Circuit Simulation using Xschem](https://www.youtube.com/watch?v=qbf9CbWoX4w)
+
+## Misc
+# Unable to move VSCode window
+   Create ~/.config/Code/User/settings.json
+   Add single line: { "window.titleBarStyle": "native" }
+   Type 'code' to launch
